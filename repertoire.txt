@@ -1,0 +1,31 @@
+извините | Excusez moi | 1
+только | Seulement | 1
+начинаю | (je) commence | 1
+язык | langue  | 1
+здесь | ici | 1
+больница | hôpital | 1
+время | temps | 1 |  prononcer VRIEMIA
+прямо | droit | 1 |  prononcer PRIAMA
+далеко | loin | 1
+спасибо | merci | 1
+до свидания | au revoir | 1
+что | quoi, que  | 1
+понимаю | (je) commence | 1
+голоден | affamé | 1
+тоже | aussi | 1
+харошо | bien | 1
+медленна | lentement | 1 
+рад | content | 1
+всегда | toujours | 1
+помогаю | (j')aide | 1
+пожалуйста | svp, de rien | 1
+всё | tout | 1 |  prononcer FSIO
+когда | quand | 1
+эдравствуйте | bonjour | 1
+как выпоживаете | comment ça va ? | 1
+ваш | votre | 1
+дома | (à la) maison | 1
+может ыть | peut-être | 1
+её | la [accusatif] | 1 | prononcer ÏEÏO
+скоро | Bientôt | 1
+будет | sera | 1
